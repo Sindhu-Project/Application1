@@ -1,0 +1,29 @@
+[33mcommit 6cd4a0ba9f3138e074ccb4a309b410774ccb0622[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: root <root@ip-172-31-32-186.ap-south-1.compute.internal>
+Date:   Sun Oct 11 11:42:47 2020 +0000
+
+    Modified 3 files and added one more file
+
+[33mcommit 35c7ad7a73c20fb861128c8cf9c2dba6a9d1a944[m
+Author: root <root@ip-172-31-32-186.ap-south-1.compute.internal>
+Date:   Sun Oct 11 11:23:07 2020 +0000
+
+    updated file2
+
+[33mcommit 42a382188119c2bfcd9dcabe454c2b1f536e6388[m
+Author: root <root@ip-172-31-32-186.ap-south-1.compute.internal>
+Date:   Sun Oct 11 11:21:36 2020 +0000
+
+    updated file2
+
+[33mcommit f44bf8544379cd059c760ae35d706dcc0e81f358[m
+Author: root <root@ip-172-31-32-186.ap-south-1.compute.internal>
+Date:   Sun Oct 11 11:15:37 2020 +0000
+
+    Updated file1 contents
+
+[33mcommit 337e2d1f7bf274ccfca6c8a880faaf2c8da9cef5[m
+Author: root <root@ip-172-31-32-186.ap-south-1.compute.internal>
+Date:   Sun Oct 11 11:10:53 2020 +0000
+
+    Created 3 files..
