@@ -1,6 +1,11 @@
 future2 change
 line1
 line2
+<<<<<<< HEAD
+Change from local..............
+=======
+Change from remote..........
+>>>>>>> e6ca18f964f35d11540252028c3949f66c5507dd
 future1 change
 future2 change
 line3
@@ -11,6 +16,8 @@ line5
 future2 change
 future2 change
 line6
+change from local...............
+change from remote......................
 line7
 future1 change
 line8
